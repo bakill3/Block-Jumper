@@ -1,7 +1,5 @@
 # **GodofBros.apk**
 
-![GodofBros](https://socialify.git.ci/bakill3/GodofBros/image?language=1&name=1&owner=1&pattern=Formal%20Invitation&stargazers=1&theme=Light)
-
 **GodofBros.apk is an exhilarating arcade game crafted with Unity, developed in 2017. In this vibrant and dynamic game, players control a character who jumps over blocks, with both the blocks and the background changing colors randomly. Built using C#, this game promises a unique visual and gameplay experience.**
 
 ## **Key Features:**
