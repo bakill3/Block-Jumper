@@ -1,6 +1,8 @@
-# **Block Jumper**
+# **GodofBros.apk**
 
-**Block Jumper is an exhilarating arcade game crafted with Unity, developed in 2019 when I was 19 years old. In this vibrant and dynamic game, players control a character who jumps over blocks, with both the blocks and the background changing colors randomly. Built using C#, this game promises a unique visual and gameplay experience.**
+![GodofBros](https://socialify.git.ci/bakill3/GodofBros/image?language=1&name=1&owner=1&pattern=Formal%20Invitation&stargazers=1&theme=Light)
+
+**GodofBros.apk is an exhilarating arcade game crafted with Unity, developed in 2017. In this vibrant and dynamic game, players control a character who jumps over blocks, with both the blocks and the background changing colors randomly. Built using C#, this game promises a unique visual and gameplay experience.**
 
 ## **Key Features:**
 
@@ -23,5 +25,5 @@
   - Enjoy an upbeat and catchy soundtrack that complements the fast-paced action of the game.
 
 ## **Early Development Footage:**
-Check out the initial work on Block Jumper in this early development video:
+Check out the initial work on GodofBros.apk in this early development video:
 [Early Development Video](https://www.youtube.com/watch?v=oeuBXPvfdVw)
