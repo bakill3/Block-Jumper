@@ -1,7 +1,5 @@
 # **Block Jumper**
 
-![Block-Jumper](https://socialify.git.ci/yourusername/Block-Jumper/image?language=1&name=1&owner=1&pattern=Formal%20Invitation&stargazers=1&theme=Light)
-
 **Block Jumper is an exhilarating arcade game crafted with Unity, developed in 2019 when I was 19 years old. In this vibrant and dynamic game, players control a character who jumps over blocks, with both the blocks and the background changing colors randomly. Built using C#, this game promises a unique visual and gameplay experience.**
 
 ## **Key Features:**
