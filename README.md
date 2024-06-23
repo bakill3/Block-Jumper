@@ -1,6 +1,6 @@
 # **GodofBros**
 
-**GodofBros.apk is an exhilarating arcade game crafted with Unity, developed in 2017. In this vibrant and dynamic game, players control a character who jumps over blocks, with both the blocks and the background changing colors randomly. Built using C#, this game promises a unique visual and gameplay experience.**
+**GodofBros.apk is an exhilarating arcade game crafted with Unity, developed in 2017 (I was 17). In this vibrant and dynamic game, players control a character who jumps over blocks, with both the blocks and the background changing colors randomly. Built using C#, this game promises a unique visual and gameplay experience.**
 
 ## **Key Features:**
 
